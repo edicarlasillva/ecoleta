@@ -1,12 +1,14 @@
-import knex from "knex";
+import knex from 'knex';
 
 const connection = knex({
-  client: "pg",
+  client: 'mysql',
   connection: {
-    database: "ecoleta",
-    user: "postgres",
-    password: "Carlinha123",
+    host: 'localhost',
+    user: 'root',
+    password: '',
+    database: 'ecoleta',
   },
+  useNullAsDefault: true,
 });
 
 export default connection;

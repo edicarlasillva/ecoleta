@@ -1,17 +1,18 @@
-import path from "path";
+import path from 'path';
 
 module.exports = {
-  client: "mysql",
+  client: 'mysql',
   connection: {
-    host: "127.0.0.1",
-    user: "root",
-    password: "",
-    database: "ecoleta",
+    host: 'localhost',
+    user: 'root',
+    password: '',
+    database: 'ecoleta',
   },
   migrations: {
-    directory: path.resolve(__dirname, "src", "database", "migrations"),
+    directory: path.resolve(__dirname, 'src', 'database', 'migrations'),
   },
+  useNullAsDefault: true,
   seeds: {
-    directory: path.resolve(__dirname, "src", "database", "seeds"),
+    directory: path.resolve(__dirname, 'src', 'database', 'seeds'),
   },
 };
