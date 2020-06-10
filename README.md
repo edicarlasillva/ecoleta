@@ -4,7 +4,7 @@
 
 # ♻️ Ecoleta
 
-O Ecoleta é um Marketplace que conecta empresas/entidades que coletam resíduos orgânicos e inorgânicos com pessoas que precisam descartá-los.
+O Ecoleta é um Marketplace para conectar empresas/entidades que coletam resíduos orgânicos e inorgânicos com pessoas que precisam descartá-los.
 
 <p align="center">
  <img src="https://i.imgur.com/x4EvkJY.png" alt="Preview da aplicação" />
