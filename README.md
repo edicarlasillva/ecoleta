@@ -20,6 +20,10 @@ O Ecoleta é um Marketplace para conectar empresas/entidades que coletam resídu
 - App mobile para visualização dos pontos de coletas
 - Contato com o ponto de coleta via e-mail ou Whatsapp
 
+### 🎨 Layout da aplicação
+
+O layout web e mobile da aplicação está disponível no [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546).
+
 ### 💻 Tecnologias Utilizadas
 
 - [TypeScript](https://www.typescriptlang.org/)
