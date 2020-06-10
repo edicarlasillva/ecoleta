@@ -1,14 +1,14 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src="https://i.imgur.com/bYSTKIQ.png" />
+    <img alt="Ecoleta" title="Ecoleta" src="https://i.imgur.com/bYSTKIQ.png" alt="Ecoleta" />
 </h1>
-
-</div>
 
 # ♻️ Ecoleta
 
 O Ecoleta é um Marketplace que conecta empresas/entidades que coletam resíduos orgânicos e inorgânicos com pessoas que precisam descartá-los.
 
-[![ecoleta](https://ik.imagekit.io/4rljor9iwy/capa_hV2pBYDMs.jpg)](https://www.ecoleta.com.br)
+<p align="center">
+ <img src="https://i.imgur.com/x4EvkJY.png" alt="Preview da aplicação" />
+</p>
 
 <h4 align="center"> 
 	Projeto em evolução 🚀
