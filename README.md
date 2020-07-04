@@ -2,7 +2,7 @@
     <img alt="Ecoleta" title="Ecoleta" src="https://i.imgur.com/bYSTKIQ.png" alt="Ecoleta" />
 </h1>
 
-# ♻️ ⠀⠀ Ecoleta
+# ♻️ Ecoleta
 
 O Ecoleta é um Marketplace para conectar empresas/entidades que coletam resíduos orgânicos e inorgânicos com pessoas que precisam descartá-los.
 
@@ -14,17 +14,17 @@ O Ecoleta é um Marketplace para conectar empresas/entidades que coletam resídu
 	Projeto em evolução 🚀
 </h4>
 
-### 🚀 ⠀⠀ Features
+### 🚀 Features
 
 - Empresas e entidades podem cadastrar um ponto de coleta
 - App mobile para visualização dos pontos de coletas
 - Contato com o ponto de coleta via e-mail ou Whatsapp
 
-### 🎨 ⠀⠀ Layout da aplicação
+### 🎨 Layout da aplicação
 
 O layout web e mobile da aplicação está disponível no [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546).
 
-### 💻 ⠀⠀ Tecnologias Utilizadas
+### 💻 Tecnologias Utilizadas
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
@@ -33,7 +33,7 @@ O layout web e mobile da aplicação está disponível no [Figma](https://www.fi
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 
-### 👷 ⠀⠀ Como começar
+### 👷 Como começar
 
 - Ter o **[Node.js](https://nodejs.org/en/)** instalado na máquina;
 - Utilizar um gerenciador de pacotes: **[Yarn](https://yarnpkg.com/)** ou **[NPM](https://www.npmjs.com/)**;
@@ -68,7 +68,7 @@ O layout web e mobile da aplicação está disponível no [Figma](https://www.fi
   $ yarn start
 ```
 
-### 🎉 ⠀⠀ Como contribuir
+### 🎉 Como contribuir
 
 - Faça um fork desse repositório;
 - Crie uma branch com a sua feature: `git checkout -b minha-feature`;
